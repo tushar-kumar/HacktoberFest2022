@@ -1,4 +1,4 @@
-Butterfly Pattern print Problem -->>
+
 
 import java.util.*;
  
@@ -42,12 +42,3 @@ public class Solutions {
 }
 
 
-## output -->
-*      *
-**    **
-***  ***
-********
-********
-***  ***
-**    **
-*      *
