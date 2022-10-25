@@ -1,3 +1,4 @@
+# This repo is excluded from the hactober fest so don't waste your precious time by contributing here.
 # Contributing to Hactoberfest2022
 <img width="2295" alt="logo" src="https://user-images.githubusercontent.com/81324145/193411234-94719960-a588-45a3-a812-41f85b517bed.jpg">
 
